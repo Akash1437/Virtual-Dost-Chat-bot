@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "virtualdost-chatbot-kbfj",
+  "private_key_id": "e9139644de4b71a315ec4ddd958718c2eaf82a7f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDgLRT/URT3/2TQ\nZSwogPN8EChoy3B274cyhT8zZkfm3AKWbEdai7dL3cv8FmUK24fNs/pdpZHqbGvy\nlMArzzWbNFM6/bzFOUZbpVT+UdS9kf8xjxusWAuTyCr5Qo3AYjsvj59God7SgQ67\nPNSNRp8hkvMg7gc4L8N51BjgPCF/Rhl38JJgJishrz0OMx21c/wWQw1tisWpArQw\nUmBggtx6vquyW040GulDRAZTh5DUDeJyBnDaghBxNmtWnHe9QrkNzZQyBu2TQ3vb\nx9o7Knzsiixcw8uCmfscoroHrFjp4N2g8XEBABA/Kj6FBo0+6LS49PgcclEk+ZWc\nQeYAQpQZAgMBAAECggEAAL5pjIMaV0wYC4UJjyGhZlQId7gdy+Sn9HLL6Pm7GSn5\n0d1p7bGtcezVzvKC3EdO8M+fb/LbNFETYkIA+96DeUmWyFI8PTIRiv9D6wR1T7Cj\naLZiARrd5Rwc92OBTYF7pWWFJlKKtL3GWC87HBis+pjzGL4SApj7i1KP2cgvlDH3\nvPsxAvjNPcOi5HUBcdtVPemRQ1n8aMZwtm99BJMRUlp5pWhfgFDnjyDmQRZwLFtI\n5Y9LEEI7BXpSfkIHVD5XTnLd6H03vNeVPnl0GxSMUZaOoM2UutL8yMO0X1fGiE0f\nXp193Q3zjehNTCDOAU3aGMvkIZnGNTghtdXmWiu0gQKBgQD6YzeCKSXbTcc3xbD5\nUiiS0qtAOl0fK69cHWC29wPUmEJmSZ9kXDwe/ZrcicSpI24ohROys/bnZBAUAgWI\nZ91bXak2Lo1PgzTnoxPBAHdGJFlv8wbaJyxdUOHe4IH+WWTC6F9bPCvV/GCLTL92\nMBsFJSqSnaJGZXNswmQg3gOtmQKBgQDlM3UlTE6qslmn9M8I3Lv1aRIY79zt7zem\nV7Sk5vejIQ74yohYdIUwXTauu7j4HpU19OGx6r5hK1rkLQTpACK5/xHN1mvVHX3h\nND7HTdF1kLAib2ug2D1d10mJAFm9Y2rv/sMtqPW8lP1i6MYU7rjdAIQTIszRzccJ\nP+jcB3UqgQKBgQCpyggFGpQSP47dMhCNMPpUfckk967YCU6Tv1QrHhwZ2NoF9NzC\nOI2IUl7mOAIE1ALKNVujLcg7Jq6Ecs5/rjb70uqA1FZ82bNRdFNb6E35YYLImFtI\nKZI7ATL5aPKdoM7kIKExA/+Rzt9E9tlKctqPxaE15PD6nacE1FkDtKl32QKBgCVr\nvViVmNJtxA2T/qlnwJhUy0ue/ecrA175OtkhjJTptNQR3Sjz/TrkPSVSKOT5uUrR\n7Hdr6CFdPr26S+7uwryzVGjS9VAaPI8kRIutvOEA+oDkyCG+rGZB3BOuJviw3qjI\nY3109IoRmT0o3A5W23/ZsbaeG+q1OiXcdVxXK14BAoGBAMFgfetiVMYd5zvYHO8N\niY9JdgSdHLkp/qawe3inNSxdNopbXbcH0Vo+PhPM2+sYbiD2mCkyqR6vhGaPLhgc\nIIUKdZ7Nkmtz0XpBRR5N2eXQ9qi/jwfTjLg7rReyNiI4FBm60GMZqhZso/OVmiPv\n3jJGgORe3m3BiOr/M00GK+j1\n-----END PRIVATE KEY-----\n",
+  "client_email": "virtual-dost-chatbot@virtualdost-chatbot-kbfj.iam.gserviceaccount.com",
+  "client_id": "106620251957506826725",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/virtual-dost-chatbot%40virtualdost-chatbot-kbfj.iam.gserviceaccount.com"
+}
